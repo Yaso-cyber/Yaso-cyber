@@ -1,50 +1,49 @@
 # Yasmine Gamot-Chaer
 
-**AI & Cloud | Governance, Risk & Compliance (GRC) | Cybersecurity**
+**Governance, Risk & Compliance (GRC) | Cybersecurity | AI & Cloud**
 
-Criminology graduate transitioning into technology, focused on the intersection of artificial intelligence, cloud infrastructure, and security governance. I bring an investigative, risk-oriented mindset from criminology into modern cybersecurity and compliance work.
+Criminology graduate building a career in **GRC** — the intersection of security, law, and human behaviour. I study how organisations manage risk, meet regulatory obligations, and stay resilient, and I bring an investigative, evidence-driven mindset from criminology to that work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmine-gamot-chaer)
 
 ---
 
-## About
+## 🎯 Where I'm Headed
 
-- 🎓 Criminology background, applying analytical and behavioural insight to security problems
-- 🤖 Developing skills in **AI & Machine Learning** — Python, data analysis, model deployment
-- ☁️ Building expertise in **Cloud Computing** across AWS, Azure, and Google Cloud
-- 🛡️ Specialising in **GRC** — NIST, ISO 27001, SOC 2, risk assessment, and audit
-- 📈 Committed to continuous learning at the edge of technology and policy
+My goal: **GRC Analyst → Risk & Compliance Specialist → CISO-track leadership.**
+
+Criminology taught me why people and organisations break rules. GRC is where that insight becomes practical — designing controls, assessing risk, and holding systems accountable.
 
 ---
 
-## Focus Areas
+## 🛡️ GRC Toolkit
 
-| AI & Machine Learning | Cloud & DevOps | GRC & Security |
+| Frameworks & Standards | Regulations | Risk & Audit |
 | :--- | :--- | :--- |
-| Python, TensorFlow, scikit-learn | AWS, Azure, Google Cloud | NIST, ISO 27001, SOC 2 |
-| Pandas, NumPy, NLP | Docker, Kubernetes, IaC | Risk assessment, audit, policy |
-
-## Skills & Tools
-
-**Languages:** Python · Java · JavaScript · Bash · PowerShell
-
-**AI & Data:** TensorFlow · scikit-learn · Pandas · NumPy
-
-**Cloud & DevOps:** AWS · Azure · Google Cloud · Docker · Kubernetes
-
-**Security:** Wireshark · Kali Linux · Splunk
-
-**Workflow:** Git · GitHub · VS Code · Flask
+| NIST CSF & 800-53 | GDPR / UK DPA | Risk assessment & registers |
+| ISO 27001 / 27005 | HIPAA · PCI DSS | Third-party / vendor risk |
+| SOC 2 · CIS Controls | DORA · NIS2 | Audit prep & evidence gathering |
+| COBIT | SOX basics | Policy writing & gap analysis |
 
 ---
 
-## GitHub Stats
+## 🔭 Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaso-cyber&theme=default&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaso-cyber&theme=default&hide_border=true&layout=compact" alt="Top languages" />
-</p>
+- 📚 Studying for security & GRC certifications (ISC2 CC → Security+ → CRISC/CISA path)
+- 🧪 Building hands-on labs: mock risk assessments, ISO 27001 gap analyses, and policy templates
+- ☁️ Learning cloud security & compliance (AWS/Azure shared-responsibility, cloud audits)
+- 🤖 Exploring how **AI governance** (EU AI Act, NIST AI RMF) is reshaping compliance
+- ✍️ Turning what I learn into notes and templates I'll share here
+
+---
+
+## 💡 Why Criminology → GRC?
+
+> Crime theory and compliance ask the same question: *why do people break rules — and how do we design systems so they don't?*
+
+- **Investigation skills** → audit trails, evidence collection, incident review
+- **Behavioural analysis** → insider threat, social engineering, security culture
+- **Policy & law** → regulatory interpretation, control design, accountability
 
 ---
 
